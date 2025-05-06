@@ -1,0 +1,2 @@
+# AUTONOMOUS-NAVIGATION-BASED-ON-THE-OBJECT-DETECTION-ON-AND-AI-DRIVEN
+Real-time Object Detection: Accurate identification of objects. Dynamic Path Planning: AI ensures efficient, collision-free navigation. - Enhanced Awareness: Sensors and AI enable adaptability in varied terrains.  -Smart Decision-Making: Handles complex scenarios seamlessly. Scalable Framework: Suitable for robots, vehicles, and drones.  
