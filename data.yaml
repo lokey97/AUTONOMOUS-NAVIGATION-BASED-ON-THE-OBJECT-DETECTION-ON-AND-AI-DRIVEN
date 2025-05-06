@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 66
+names: ['ac', 'auto', 'bag', 'board', 'book', 'bottle', 'box', 'brushes', 'bucket', 'building', 'bulb', 'chair', 'chart', 'chips', 'cloth', 'cone', 'cup', 'curtains', 'curtaons', 'door', 'door mat', 'drums', 'durenta repens', 'dustbin', 'fan', 'flag', 'flask', 'flowers', 'frame', 'grass', 'ground', 'guitar', 'id card', 'lamp', 'machine', 'mat', 'mud', 'mug', 'net', 'paper', 'person', 'phone', 'piano', 'plant', 'plants', 'plastic', 'pot', 'refrigerator', 'ring', 'road', 'shoes', 'stairs', 'stand', 'steps', 'switches', 'table', 'tap', 'tiles', 'tools', 'tree', 'wall', 'washbasin', 'watch', 'window', 'windows', 'wire']
+
+roboflow:
+  workspace: yolo-v8-image-labeling
+  project: 08-02-25
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-v8-image-labeling/08-02-25/dataset/1
